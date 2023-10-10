@@ -1,0 +1,14 @@
+Fig1_20230630_8mice.tif
+
+b,c)
+Dual_behave_analysis_block1_200706_plot5_precise2.m
+
+d)
+Dual_Full_psycho_analysis_220818_all.m
+
+e)
+Dual_behave_analysis_block1_220818_lick_long4.m
+Dual_behave_analysis_block1_220818_lick_short.m
+
+f)
+Dual_behave_analysis_block1_220818_short_long.m
