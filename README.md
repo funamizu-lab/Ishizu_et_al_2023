@@ -25,7 +25,7 @@ https://zenodo-rdm-qa.web.cern.ch/uploads/10000544
 
 https://zenodo-rdm-qa.web.cern.ch/uploads/10000635 
 
-The custom-made MATLAB scripts require for the appropreate preprocessed data from raw spike and behavioral data. 
+For the MATLAB code here to work, the above data are needed to convert into the appropriate intermediate files.
 
 The costom codes for data preprocessing are available from the corresponding author upon reasonable request.
 
