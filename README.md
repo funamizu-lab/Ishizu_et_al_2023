@@ -10,7 +10,7 @@ We tested to run the scripts by normal desktop computer ( 64-bit Windows 10 Pro 
 
 ### 2. Demo
 
-  Expected outputs were main firues and the relevant source data.
+  Expected outputs were main figrues and the relevant source data in our paper.
 
   The run time of almost all scripts were within 1 minute.  
 
