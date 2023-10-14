@@ -17,7 +17,7 @@ We tested to run the scripts by normal desktop computer ( 64-bit Windows 10 Pro 
 
 ### 3. How to use
 
-  You can get access to the spike data from the following cites
+  You can get access to the spike data from the following cites:
   
   https://zenodo-rdm-qa.web.cern.ch/uploads/10000633
   
