@@ -4,29 +4,30 @@
    
   All scripts were conducted to wrok on the MATLAB R2021a.
 
-We tested to run the scripts by normal desktop computer ( 64-bit Windows 10 Pro / Intel(R)Core(TM)i7-10700K CPU @ 3.8 GHz).
+We tested to run the scripts by a normal desktop computer ( 64-bit Windows 10 Pro / Intel(R)Core(TM)i7-10700K CPU @ 3.8 GHz).
 
   
 
 ### 2. Demo
 
-  Expected outputs were main figrues and the relevant source data in our paper.
+  Expected outputs were the figrues and the relevant source data in our paper.
 
-  The run time of almost all scripts were within 1 minute.  
+  The run time of almost all scripts were within 1 minute (in 10 minutes at maximum).  
 
 
 ### 3. How to use
 
-  You can get access to the spike data from the following cites:
+  You can get access to the spike and behavioral data from the following cites:
   
   https://zenodo-rdm-qa.web.cern.ch/uploads/10000633
   
 https://zenodo-rdm-qa.web.cern.ch/uploads/10000544
 
-
 https://zenodo-rdm-qa.web.cern.ch/uploads/10000635 
 
+The custom-made MATLAB scripts require for the appropreate preprocessed data from raw spike and behavioral data. 
 
+The costom codes for data preprocessing are available from the corresponding author upon reasonable request.
 
 ## Reference
 
