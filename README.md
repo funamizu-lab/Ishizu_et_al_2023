@@ -4,9 +4,7 @@
    
   All scripts were conducted to wrok on the MATLAB R2021a.
 
-We use the bellow machine to test the scripts. 
-  
-Windows 10 Pro (64 bit operating system) / Intel(R)Core(TM)i7-10700K CPU @ 3.8 GHz
+We tested to run the scripts by normal desktop computer ( 64-bit Windows 10 Pro / Intel(R)Core(TM)i7-10700K CPU @ 3.8 GHz).
 
   
 
