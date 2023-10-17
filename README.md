@@ -19,7 +19,7 @@ We tested to run the scripts by a normal desktop computer ( 64-bit Windows 10 Pr
 
   You can get access to the spike and behavioral data from the following cites:
   
-10.6084/m9.figshare.24319705
+DOI: 10.6084/m9.figshare.24319705
 
 For the MATLAB code here to work, the above data are needed to convert into the appropriate intermediate files.
 
