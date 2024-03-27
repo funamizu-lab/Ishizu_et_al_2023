@@ -31,7 +31,7 @@ For the MATLAB code here to work, the above data including the appropriate inter
 
   Additionally, you can get the spike and behavioral data from the following link:
   
-**DOI: 10.6084/m9.figshare.24319705**
+**[DOI: 10.6084/m9.figshare.24319705](https://doi.org/10.6084/m9.figshare.24319705.v1)**
 
 
 
