@@ -40,6 +40,10 @@ for i=1:length(analysis_dir)
     State_dynamics_20220917_QR_CV_depth_control(pathname)
 end
 
+%%
+% Below section for visualization 
+% The run time of almost all scripts were within 1 minute (in 10 minutes at maximum).
+%%
 %% Make Figure 1 (No need to execute the above scripts)
 Figure1b_Dual_behave_analysis_block1_200706_plot5_precise2;
 % need to select the appropriate file
