@@ -22,10 +22,10 @@ We tested to run the scripts by a normal desktop computer (64-bit Windows 10 Pro
 
 For the MATLAB code here to work, 
 
-1. Please download the code files and the intermediate files
-2. Please set the path of the code files and the intermediate files in Matlab
+1. Download the code files and the intermediate files
+2. Set the path of the code files and the intermediate files in Matlab
 3. Please change the adress written in the script (**makefile/auc_folders.m; makefile/fof_folders.m; makefile/mpfc_folders.m**) into the appropriate address of your local folder      
-4. Please run the code according to the scpirt of **makefile/makeFigures.m**
+4. Run the code according to the scpirt of **makefile/makeFigures.m**
 
 
 
