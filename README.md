@@ -1,10 +1,10 @@
-# Ishizu_et_al_2023
+# Ishizu_et_al_2024
 
 ### 1. System requirements
    
   All scripts were conducted to wrok on the MATLAB R2021a.
 
-We tested to run the scripts by a normal desktop computer ( 64-bit Windows 10 Pro / Intel(R)Core(TM)i7-10700K CPU @ 3.8 GHz).
+We tested to run the scripts by a normal desktop computer (64-bit Windows 10 Pro / Intel(R)Core(TM)i7-10700K CPU @ 3.8 GHz).
 
   
 
@@ -12,18 +12,28 @@ We tested to run the scripts by a normal desktop computer ( 64-bit Windows 10 Pr
 
   Expected outputs were the figrues and the relevant source data in our paper.
 
-  The run time of almost all scripts were within 1 minute (in 10 minutes at maximum).  
-
 
 ### 3. How to use
 
-  You can get access to the spike and behavioral data from the following cites:
+  You can get access to the spike and behavioral data from the following link:
   
-DOI: 10.6084/m9.figshare.24319705
+**DOI: 10.5281/zenodo.10881334**
 
-For the MATLAB code here to work, the above data are needed to convert into the appropriate intermediate files.
+For the MATLAB code here to work, the above data including the appropriate intermediate files are needed.
 
-The costom codes for data preprocessing are available from the corresponding author upon reasonable request.
+1. Please download the code files and the intermediate files
+2. Please set the path of the code files and the intermediate files in Matlab
+3. Please change the adress written in the script (**makefile/auc_folders.m; makefile/fof_folders.m; makefile/mpfc_folders.m**) into the appropriate address of your local folder      
+4. Please run the code according to the scpirt of **makefile/makeFigures.m**
+
+
+### 4. Note
+
+  Additionally, you can get the spike and behavioral data from the following link:
+  
+**DOI: 10.6084/m9.figshare.24319705**
+
+
 
 ## Reference
 
