@@ -19,9 +19,9 @@ For the MATLAB code here to work,
 
 1. Download the intermediate files from the following link:
 **[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10881334.svg)](https://doi.org/10.5281/zenodo.10881334)**
-2. Set the path of the code files and the intermediate files in Matlab software
+2. Set the path of the code and intermediate files on Matlab software
 3. Please change the adress written in the script (**makefile/auc_folders.m; makefile/fof_folders.m; makefile/mpfc_folders.m**) into the appropriate address of your local folder      
-4. Run the code according to the scpirt of **makefile/makeFigures.m**
+4. Run the code according to **makefile/makeFigures.m**
 
 
 
