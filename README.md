@@ -24,7 +24,8 @@ For the MATLAB code here to work,
 4. Run the code according to **makefile/makeFigures.m**
 
 
-
+### 4. NOTE
+Codes related to each intermediate file generation are listed in **function for make Intermediatefile/README.txt**  
 
 
 ## Reference
