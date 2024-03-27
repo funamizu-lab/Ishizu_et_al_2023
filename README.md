@@ -17,7 +17,7 @@ We tested to run the scripts by a normal desktop computer (64-bit Windows 10 Pro
 
   You can get access to the spike and behavioral data from the following link:
   
-**DOI: 10.5281/zenodo.10881334**
+**[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10881334.svg)](https://doi.org/10.5281/zenodo.10881334)**
 
 For the MATLAB code here to work, the above data including the appropriate intermediate files are needed.
 
